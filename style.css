@@ -1,0 +1,95 @@
+
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+	font-family: sans-serif;
+}
+section {
+	text-align: center;
+  padding: 100px 15px 100px;
+  width: 100%;
+	height: auto;
+	position: relative;
+  width: 100%;
+  min-height: auto;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: url('img/cover2.jpg');
+  text-align: center;
+  color: black;
+  min-height: 100%;
+}
+header .header-content {
+  position: relative;
+  text-align: center;
+  top: 20%;
+  padding: 10px 15px;
+  width: 100%;
+}
+header .header-content .header-content-inner h2{
+  font-weight: 700;
+  font-size: 30px;
+  font-family: Kristen ITC;
+}
+header .header-content .header-content-inner {
+	text-align: center;
+}
+header .header-content .header-content-inner h1 {
+	font-size: 50px;
+	font-family: Kristen ITC;
+}
+.button-login
+{
+	padding: 10px;
+	width: 7%;
+	height: 7%;
+	margin-left: 20px;
+	background-color: skyblue;
+	border-radius: 20%;
+	border-color: skyblue;
+	cursor: pointer;
+	font-family: Kristen ITC;
+	text-decoration: none;
+	color: black;
+}
+.button-login:visited{
+	color: black;
+}
+.button-login:hover{
+	color: white;
+}
+.sana
+{
+	font-family: Niagara Engraved;
+}
+.register-form
+{
+	padding: 40px;
+	background-color: lightgray;
+	border: 1px solid;
+	border-radius: 20%;
+	width: 30%;
+	margin-left: 32%;
+}
+.inst
+{
+	margin-left: 2px;
+	font-size: 9px !important;
+}
+.signout{
+	padding-top: 2%;
+	margin-left: 70%;
+	
+}
